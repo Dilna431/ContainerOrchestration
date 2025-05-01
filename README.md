@@ -66,7 +66,23 @@ npm start
 
 ![image](https://github.com/user-attachments/assets/8c858708-4815-44c8-bc39-52b4ed3e6362)   
 
-![image](https://github.com/user-attachments/assets/a3a5464a-1ec6-4305-ae49-074499a02538)
+![image](https://github.com/user-attachments/assets/a3a5464a-1ec6-4305-ae49-074499a02538)  
+
+# Dockerization   
+
+Files to include:  
+backend/Dockerfile   
+frontend-blue/Dockerfile   
+frontend-green/Dockerfile   
+docker-compose.yml   
+
+docker-compose up --build   
+
+![image](https://github.com/user-attachments/assets/b0cfd572-b133-4417-b94a-cbc06125cc20)     
+
+
+
+
 
 
 
