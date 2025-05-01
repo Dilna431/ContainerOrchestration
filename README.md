@@ -1,5 +1,9 @@
-# Microservices Kubernetes Deployment
-This project demonstrates deploying a microservices architecture on Kubernetes using Minikube. The application consists of four services: User, Product, Order, and Gateway services.
+# Blue-Green Deployment of Node.js Application using Docker and Kubernetes
+
+## Overview
+
+This project demonstrates the deployment of a containerized Node.js application with a MongoDB backend, two frontend variants (Basic and Enhanced), and a blue-green deployment strategy implemented using Kubernetes on Minikube.
+
 
 # Prerequisites   
 
