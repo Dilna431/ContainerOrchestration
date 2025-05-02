@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blue-Green Deployment of Node.js Application using Docker and Kubernetes
 
 ## Overview
